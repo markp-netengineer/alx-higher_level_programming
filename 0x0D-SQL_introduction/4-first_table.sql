@@ -1,0 +1,2 @@
+--CREATES A TABLE 
+CREATE TABLE IF NOT EXISTS 'first table' ('id'INT, 'name'VARCHAR(256));
