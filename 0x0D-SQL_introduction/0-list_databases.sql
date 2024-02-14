@@ -1,1 +1,4 @@
-VimCrypt~03!ü`ÁŒÈZÃÅâ>ÜñŠqËäİHß	·òc™H&ÿj’:çk·)qŒÈ™7	MVûv$;­9ã‹¹¹;úÆ»Âu?Zö‰6®»;Ò«:’üG
+-- lists all databases 
+-- Script to list all databases on the MySQL server
+SHOW DATABASES;
+
