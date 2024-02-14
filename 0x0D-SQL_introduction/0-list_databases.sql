@@ -1,2 +1,1 @@
---lists all databases mysql server 
-SHOW DATABASES;
+VimCrypt~03!ό`ΑΘZΓΕβ>άρqΛδέHί	·ςc™H&ÿj’:ηk·)qΘ™7	MVϋv$;­9γ‹ΉΉ;ϊΖ»Βu?Zφ‰6®»;Ò«:’όG
